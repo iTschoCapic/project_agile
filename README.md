@@ -4,7 +4,7 @@
 ## MACHECOURT-BOURGEOIS Renaud
 
 Ce projet à pour objectif de fournir une application permettant de réaliser un Poker Planning.
-Nous avons décidez de le coder en C.
+Nous avons décidé de le coder en C.
 Pour nous aider dans notre construction du projet, nous allons nous même faire le Poker Planning de ce dernier.
 Pour cela, il nous faut d'abord réaliser une liste des différentes tâches à accomplir.
 En ce qui concerne les cartes utilisées pour noter les tâches, nous avons simplement repris celle du projet.
