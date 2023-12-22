@@ -12,7 +12,7 @@ En ce qui concerne les cartes utilisées pour noter les tâches, nous avons simp
 Liste des tâches avec coefficient de difficulté estimé:
 - Choix du mode de jeu (minimun deux, dont strict et un au choix parmi: moyenne, médiane, majorité absolue, majorité relative), 1;
 - Système de votes (Premier tour est toujours à l'unanimité), 13;
-- Jouable en local ou à distance,
+- Jouable en local,
 - Choix du pseudo, 2;
 - Enregistrement de la partie dans un fichier JSON, 5;
 - Démarrage/Reprise d'une partie à partir d'un fichier JSON, 5;
