@@ -1,0 +1,3 @@
+<map id="SDL_JoyBatteryEvent" name="SDL_JoyBatteryEvent">
+<area shape="rect" id="node1" title="Joysick battery level change event structure (event.jbattery.*)" alt="" coords="5,5,164,127"/>
+</map>
