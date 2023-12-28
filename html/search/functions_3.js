@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['void_2918',['void',['../structSDL__VirtualJoystickDesc.html#a787c36ed21a470e96cb69b000c4839ac',1,'SDL_VirtualJoystickDesc']]]
+  ['void_2927',['void',['../structSDL__VirtualJoystickDesc.html#a787c36ed21a470e96cb69b000c4839ac',1,'SDL_VirtualJoystickDesc']]]
 ];
