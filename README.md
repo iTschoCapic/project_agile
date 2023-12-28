@@ -18,7 +18,6 @@ Liste des tâches avec coefficient de difficulté estimé:
 - Démarrage/Reprise d'une partie à partir d'un fichier JSON, 5;
 - Chronomètre, 3;
 - Chat, 8;
-- Choix du thème (Fond, cartes, sons), 5;
 
 Il nous faut aussi choisir un minimum de trois patrons de conception (Design Pattern):
 - Factory (Il nous permettra d'initialiser les images des cartes rapidement et de manière automatisée)
